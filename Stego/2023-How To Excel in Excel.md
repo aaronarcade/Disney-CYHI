@@ -8,9 +8,9 @@
 
 ## Process
 * Excel file has a rectangular grid of values
-* ![Grid](gridnumbers.png)
+* ![Grid](files/gridnumbers.png)
 * some of the cells have functions, so select just those with functions...
-* ![Grid](functions.png)
+* ![Grid](files/functions.png)
 
 ## Solution
 * CYHI{Keep-all-frameworks-libraries-and-dependencies-up-to-date}
