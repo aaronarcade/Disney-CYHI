@@ -1,7 +1,7 @@
 # Disney-CYHI - AWS
 Notes from Disney's Global Information Security Can You Hack It Events
 
-## 2023 - Coding (Math is Fun)
+## 2023 - Math is Fun
 ### Prompt
 Given host and port to connect to. (204.48.18.4)
 
