@@ -4,7 +4,7 @@
 ## Prompt
 "something spooky probably"
 #### Attachment
-![excel file](50d9767356.xlsx)
+* files/50d9767356.xlsx
 
 ## Process
 * binwalk and cat hidden file
