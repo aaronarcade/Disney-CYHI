@@ -1,8 +1,8 @@
-# How to Excel in Excel
+# Supernatural Signal
 2023 - Stego
 
 ## Prompt
-"something spooky probably"
+"something spooky probably, and some reference to 1995"
 #### Attachment
 ![excel file](50d9767356.xlsx)
 
